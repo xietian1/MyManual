@@ -1,6 +1,6 @@
 # Steps to Install srsLTE
 
-##Command that may be used
+## Command that may be used
 * **Git Command**  
     ```
     #see all branch
@@ -47,7 +47,7 @@
     ```  
     
     
-##Install srsLTE  
+## Install srsLTE  
 
 * Update dependencies:
     ```
@@ -113,7 +113,8 @@
 
 
 
-##Uninstall srsLTE
+## Uninstall srsLTE  
+
 Locate the srsLTE folder first.  
     
     
