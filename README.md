@@ -12,4 +12,6 @@ It is a list of manuals.
 [link1]: https://github.com/xietian1/MyManual/blob/master/Openwrt%20Development.md
 [link2]: https://github.com/xietian1/MyManual/blob/master/Install_srsLTE.md
 [link3]: https://github.com/xietian1/MyManual/blob/master/AndroidSysAppDevelopment.md
-[link4]: https://github.com/xietian1/MyManual/blob/master/Raspberry_Related.md
+[link4]: ./Raspberry_Related.md
+
+https://github.com/xietian1/MyManual/blob/master/Raspberry_Related.md
