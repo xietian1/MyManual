@@ -9,9 +9,15 @@ It is a list of manuals.
 
 
 
-[link1]: https://github.com/xietian1/MyManual/blob/master/Openwrt%20Development.md
-[link2]: https://github.com/xietian1/MyManual/blob/master/Install_srsLTE.md
-[link3]: https://github.com/xietian1/MyManual/blob/master/AndroidSysAppDevelopment.md
+[link1]: ./Openwrt%20Development.md
+[link2]: ./Install_srsLTE.md
+[link3]: ./AndroidSysAppDevelopment.md
 [link4]: ./Raspberry_Related.md
 
+
+<!---
+https://github.com/xietian1/MyManual/blob/master/Openwrt%20Development.md
+https://github.com/xietian1/MyManual/blob/master/Install_srsLTE.md
+https://github.com/xietian1/MyManual/blob/master/AndroidSysAppDevelopment.md
 https://github.com/xietian1/MyManual/blob/master/Raspberry_Related.md
+-->
