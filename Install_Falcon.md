@@ -69,3 +69,13 @@ sudo make install
 sudo xargs rm < install_manifest.txt
 ```
 
+
+## **Search Cell and Run**
+```
+cd /falcon/build/srsLTE-build/lib/examples/
+./cell_search -b 2
+
+
+FalconGUI
+```
+
