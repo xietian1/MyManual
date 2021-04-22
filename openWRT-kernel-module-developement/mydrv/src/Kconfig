@@ -1,0 +1,5 @@
+config MYDRV
+        tristate "test mydrv"
+        help
+        This is a example, for debugging kernel model.
+        If unsure, say N.
