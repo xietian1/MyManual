@@ -3,6 +3,8 @@
 ## Ref Link: 
 Check the [link][link1] for more information about how to modify the rom. You'll need to configure the system to use 3 CPUs.
 
+After you follow the steps, you can get a new boot img file, which can be used later. 
+
 
 ## fastboot: error: Couldn't parse partition size '0x'
 
