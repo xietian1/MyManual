@@ -14,6 +14,7 @@ You have to manually flash each img file instead of directly using flash.bat.
 
 3. Execute the following commands:
 
+```
 fastboot flash bootloader bootloader-angler-angler-03.84.img
 fastboot reboot-bootloader
 fastboot flash radio radio-angler-angler-03.88.img
@@ -23,6 +24,7 @@ fastboot reboot-bootloader
 fastboot flash system system.img
 fastboot flash:raw boot boot.img
 fastboot flash recovery recovery.img
+```
 
 [link1]: https://forum.xda-developers.com/t/guide-tutorial-fix-nexus-6p-bootloop-of-death-boot-image-patch-android-8-1-more.3716330/
 
