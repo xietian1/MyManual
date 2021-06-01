@@ -72,6 +72,7 @@
     git clone https://github.com/EttusResearch/uhd
     cd uhd 
     git checkout release_003_009_007 //We use 3.9.7 TLS version
+    git checkout UHD-3.9.LTS //For ubuntu 20.04, we need to select this branch.
     cd host
     mkdir build
     cd build
@@ -82,7 +83,12 @@
     sudo ldconfig
     sudo uhd_images_downloader //Download the UHD 
     ```
-    
+* For Ubuntu 20.04, if no python 2.* is installed, we need to create a symlink
+  ```
+  whereis python3
+  sudo ln -s /usr/bin/python3 /usr/bin/python
+  ```
+
 * Test UHD Installation:  
     Note that the USRP need to be connected to the desktop here.  
     ```
